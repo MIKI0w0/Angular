@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(161, 159, 159);
+  color: white;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
