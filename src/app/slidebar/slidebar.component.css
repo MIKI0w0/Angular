@@ -1,4 +1,10 @@
 footer {
+  position: fixed;
+  bottom: 0;
+  width: 96%;
+  background-color: lightgray;
+  text-align: center;
+  padding: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -8,6 +14,7 @@ footer {
 }
 
 footer a {
+
   color: white;
   text-decoration: none;
 }
